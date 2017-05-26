@@ -20,6 +20,8 @@ public class MainActivity extends AppCompatActivity {
     //test600
     //test1000
     //test2000
+    //test10000
+    //test20000
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
